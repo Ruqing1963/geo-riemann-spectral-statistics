@@ -1,0 +1,103 @@
+stage_name,eon,era,period,epoch,base_age_ma
+Meghalayan,Phanerozoic,Cenozoic,Quaternary,Holocene,0.0042
+Northgrippian,Phanerozoic,Cenozoic,Quaternary,Holocene,0.0082
+Greenlandian,Phanerozoic,Cenozoic,Quaternary,Holocene,0.0117
+Upper Pleistocene,Phanerozoic,Cenozoic,Quaternary,Pleistocene,0.129
+Chibanian,Phanerozoic,Cenozoic,Quaternary,Pleistocene,0.774
+Calabrian,Phanerozoic,Cenozoic,Quaternary,Pleistocene,1.80
+Gelasian,Phanerozoic,Cenozoic,Quaternary,Pleistocene,2.58
+Piacenzian,Phanerozoic,Cenozoic,Neogene,Pliocene,3.600
+Zanclean,Phanerozoic,Cenozoic,Neogene,Pliocene,5.333
+Messinian,Phanerozoic,Cenozoic,Neogene,Miocene,7.246
+Tortonian,Phanerozoic,Cenozoic,Neogene,Miocene,11.63
+Serravallian,Phanerozoic,Cenozoic,Neogene,Miocene,13.82
+Langhian,Phanerozoic,Cenozoic,Neogene,Miocene,15.99
+Burdigalian,Phanerozoic,Cenozoic,Neogene,Miocene,20.44
+Aquitanian,Phanerozoic,Cenozoic,Neogene,Miocene,23.03
+Chattian,Phanerozoic,Cenozoic,Paleogene,Oligocene,27.82
+Rupelian,Phanerozoic,Cenozoic,Paleogene,Oligocene,33.9
+Priabonian,Phanerozoic,Cenozoic,Paleogene,Eocene,37.71
+Bartonian,Phanerozoic,Cenozoic,Paleogene,Eocene,41.2
+Lutetian,Phanerozoic,Cenozoic,Paleogene,Eocene,47.8
+Ypresian,Phanerozoic,Cenozoic,Paleogene,Eocene,56.0
+Thanetian,Phanerozoic,Cenozoic,Paleogene,Paleocene,59.2
+Selandian,Phanerozoic,Cenozoic,Paleogene,Paleocene,61.6
+Danian,Phanerozoic,Cenozoic,Paleogene,Paleocene,66.0
+Maastrichtian,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,72.1
+Campanian,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,83.6
+Santonian,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,86.3
+Coniacian,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,89.8
+Turonian,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,93.9
+Cenomanian,Phanerozoic,Mesozoic,Cretaceous,Upper Cretaceous,100.5
+Albian,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,113.0
+Aptian,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,121.4
+Barremian,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,125.77
+Hauterivian,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,132.6
+Valanginian,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,139.8
+Berriasian,Phanerozoic,Mesozoic,Cretaceous,Lower Cretaceous,145.0
+Tithonian,Phanerozoic,Mesozoic,Jurassic,Upper Jurassic,149.2
+Kimmeridgian,Phanerozoic,Mesozoic,Jurassic,Upper Jurassic,154.8
+Oxfordian,Phanerozoic,Mesozoic,Jurassic,Upper Jurassic,161.5
+Callovian,Phanerozoic,Mesozoic,Jurassic,Middle Jurassic,165.3
+Bathonian,Phanerozoic,Mesozoic,Jurassic,Middle Jurassic,168.2
+Bajocian,Phanerozoic,Mesozoic,Jurassic,Middle Jurassic,170.9
+Aalenian,Phanerozoic,Mesozoic,Jurassic,Middle Jurassic,174.7
+Toarcian,Phanerozoic,Mesozoic,Jurassic,Lower Jurassic,184.2
+Pliensbachian,Phanerozoic,Mesozoic,Jurassic,Lower Jurassic,190.8
+Sinemurian,Phanerozoic,Mesozoic,Jurassic,Lower Jurassic,199.5
+Hettangian,Phanerozoic,Mesozoic,Jurassic,Lower Jurassic,201.4
+Rhaetian,Phanerozoic,Mesozoic,Triassic,Upper Triassic,205.5
+Norian,Phanerozoic,Mesozoic,Triassic,Upper Triassic,227.0
+Carnian,Phanerozoic,Mesozoic,Triassic,Upper Triassic,237.0
+Ladinian,Phanerozoic,Mesozoic,Triassic,Middle Triassic,242.0
+Anisian,Phanerozoic,Mesozoic,Triassic,Middle Triassic,247.2
+Olenekian,Phanerozoic,Mesozoic,Triassic,Lower Triassic,251.2
+Induan,Phanerozoic,Mesozoic,Triassic,Lower Triassic,251.902
+Changhsingian,Phanerozoic,Paleozoic,Permian,Lopingian,254.14
+Wuchiapingian,Phanerozoic,Paleozoic,Permian,Lopingian,259.51
+Capitanian,Phanerozoic,Paleozoic,Permian,Guadalupian,264.28
+Wordian,Phanerozoic,Paleozoic,Permian,Guadalupian,266.9
+Roadian,Phanerozoic,Paleozoic,Permian,Guadalupian,273.01
+Kungurian,Phanerozoic,Paleozoic,Permian,Cisuralian,283.5
+Artinskian,Phanerozoic,Paleozoic,Permian,Cisuralian,290.1
+Sakmarian,Phanerozoic,Paleozoic,Permian,Cisuralian,293.52
+Asselian,Phanerozoic,Paleozoic,Permian,Cisuralian,298.9
+Gzhelian,Phanerozoic,Paleozoic,Carboniferous,Pennsylvanian,303.7
+Kasimovian,Phanerozoic,Paleozoic,Carboniferous,Pennsylvanian,307.0
+Moscovian,Phanerozoic,Paleozoic,Carboniferous,Pennsylvanian,315.2
+Bashkirian,Phanerozoic,Paleozoic,Carboniferous,Pennsylvanian,323.2
+Serpukhovian,Phanerozoic,Paleozoic,Carboniferous,Mississippian,330.9
+Visean,Phanerozoic,Paleozoic,Carboniferous,Mississippian,346.7
+Tournaisian,Phanerozoic,Paleozoic,Carboniferous,Mississippian,358.9
+Famennian,Phanerozoic,Paleozoic,Devonian,Upper Devonian,372.2
+Frasnian,Phanerozoic,Paleozoic,Devonian,Upper Devonian,382.7
+Givetian,Phanerozoic,Paleozoic,Devonian,Middle Devonian,387.7
+Eifelian,Phanerozoic,Paleozoic,Devonian,Middle Devonian,393.3
+Emsian,Phanerozoic,Paleozoic,Devonian,Lower Devonian,407.6
+Pragian,Phanerozoic,Paleozoic,Devonian,Lower Devonian,410.8
+Lochkovian,Phanerozoic,Paleozoic,Devonian,Lower Devonian,419.2
+Pridoli,Phanerozoic,Paleozoic,Silurian,Pridoli,423.0
+Ludfordian,Phanerozoic,Paleozoic,Silurian,Ludlow,425.6
+Gorstian,Phanerozoic,Paleozoic,Silurian,Ludlow,427.4
+Homerian,Phanerozoic,Paleozoic,Silurian,Wenlock,430.5
+Sheinwoodian,Phanerozoic,Paleozoic,Silurian,Wenlock,433.4
+Telychian,Phanerozoic,Paleozoic,Silurian,Llandovery,438.5
+Aeronian,Phanerozoic,Paleozoic,Silurian,Llandovery,440.8
+Rhuddanian,Phanerozoic,Paleozoic,Silurian,Llandovery,443.8
+Hirnantian,Phanerozoic,Paleozoic,Ordovician,Upper Ordovician,445.2
+Katian,Phanerozoic,Paleozoic,Ordovician,Upper Ordovician,453.0
+Sandbian,Phanerozoic,Paleozoic,Ordovician,Upper Ordovician,458.4
+Darriwilian,Phanerozoic,Paleozoic,Ordovician,Middle Ordovician,467.3
+Dapingian,Phanerozoic,Paleozoic,Ordovician,Middle Ordovician,470.0
+Floian,Phanerozoic,Paleozoic,Ordovician,Lower Ordovician,477.7
+Tremadocian,Phanerozoic,Paleozoic,Ordovician,Lower Ordovician,485.4
+Stage 10,Phanerozoic,Paleozoic,Cambrian,Furongian,489.5
+Jiangshanian,Phanerozoic,Paleozoic,Cambrian,Furongian,494.0
+Paibian,Phanerozoic,Paleozoic,Cambrian,Furongian,497.0
+Guzhangian,Phanerozoic,Paleozoic,Cambrian,Miaolingian,500.5
+Drumian,Phanerozoic,Paleozoic,Cambrian,Miaolingian,504.5
+Wuliuan,Phanerozoic,Paleozoic,Cambrian,Miaolingian,509.0
+Stage 4,Phanerozoic,Paleozoic,Cambrian,Series 2,514.0
+Stage 3,Phanerozoic,Paleozoic,Cambrian,Series 2,521.0
+Stage 2,Phanerozoic,Paleozoic,Cambrian,Terreneuvian,529.0
+Fortunian,Phanerozoic,Paleozoic,Cambrian,Terreneuvian,538.8
