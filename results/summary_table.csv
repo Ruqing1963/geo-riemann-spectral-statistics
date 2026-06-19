@@ -1,0 +1,22 @@
+statistic,value
+KS D (geo vs Poisson),0.2177
+KS p (geo vs Poisson),0.000134
+KS D (geo vs GOE),0.0896
+KS p (geo vs GOE),0.382401
+KS D (geo vs GUE),0.1329
+KS p (geo vs GUE),0.055059
+AD A² (geo vs Poisson),6.7939
+AD A² (geo vs GOE),1.1762
+AD A² (geo vs GUE),5.4612
+⟨r⟩ geological,0.6370 ± 0.0217
+⟨r⟩ 95% CI,"[0.4787, 0.5993]"
+⟨r⟩ Riemann,0.6169 ± 0.0093
+Variance geological,0.4231
+Variance Riemann,0.1390
+Skewness geological,1.5306
+Kurtosis geological,3.5770
+σ from Poisson (⟨r⟩),11.6
+σ from GOE (⟨r⟩),4.7
+σ from GUE (⟨r⟩),1.6
+KS D (Riemann vs GUE),0.0495
+KS p (Riemann vs GUE),0.167018
